@@ -4,9 +4,11 @@ body {
   line-height: 1;
 }
 
-textarea {
+/* This is where the center text can be filled*/
+.textarea {
+  flex-grow: 2;
   background: transparent;
-  border: none;
+  outline: solid black 1px;
   resize: none;
   color: #000000;
   border-left: 1px solid black;
@@ -25,12 +27,16 @@ textarea {
   white-space: pre-wrap;
 }
 
+/* This is where the hour can be filled*/
 .time-block {
+  outline: solid black 1px;
+  width: 75px;
   text-align: center;
   border-radius: 15px;
 }
 
 .row {
+  display: flex;
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;
@@ -58,6 +64,7 @@ textarea {
 }
 
 .saveBtn {
+  width: 75px;
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;

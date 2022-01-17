@@ -14,13 +14,12 @@ https://jgarner828.github.io/Work-Day-Scheduler/
   
 **Basic web application allows user to generate unique passwords.**
 
-![workdayscheduler](https://user-images.githubusercontent.com/90808889/144510859-a20ed2c6-1a48-408c-9270-bcb8dd394f60.jpg)
+
+
 
 ## Usage
 
 **Select parameters for password to be generated and submit for randomized password.**
-
-
 
 
 

@@ -7,21 +7,12 @@ https://jgarner828.github.io/Work-Day-Scheduler/
 *Justin Garner*
 
 ## Repo
-**https://jgarner828.github.io/passwordgenerator/**
+**https://jgarner828.github.io/Work-Day-Scheduler/**
 
   
 # Project Description
   
-**Basic web application allows user to generate unique passwords.**
-
-
-
-
-## Usage
-
-**Select parameters for password to be generated and submit for randomized password.**
-
-
+**Basic web application allows user to generate a daily schedule on a site**
 
 
   
